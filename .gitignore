@@ -30,3 +30,4 @@
 
 #
 *.xcf
+.DS_Store
